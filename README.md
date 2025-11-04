@@ -1,0 +1,1 @@
+Software UART is implemented

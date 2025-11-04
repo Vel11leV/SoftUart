@@ -1,0 +1,8 @@
+RingBuffer.hpp:10:21:RingBuffer::~RingBuffer()	16	static
+RingBuffer.hpp:10:21:virtual RingBuffer::~RingBuffer()	16	static
+RingBuffer.cpp:9:1:RingBuffer::RingBuffer()	16	static
+RingBuffer.cpp:22:6:void RingBuffer::put(uint8_t)	16	static
+RingBuffer.cpp:48:13:bool RingBuffer::get(uint8_t&)	16	static
+RingBuffer.cpp:71:6:void RingBuffer::get(uint8_t*, uint16_t&, uint16_t)	40	static
+RingBuffer.cpp:103:10:uint16_t RingBuffer::getDataLenght()	16	static
+RingBuffer.cpp:112:6:void RingBuffer::clear()	16	static

@@ -1,0 +1,13 @@
+SoftUart.cpp:28:9:uint8_t SoftUart::uart_send(uint8_t)	24	static
+SoftUart.cpp:76:6:void SoftUart::startSending()	24	static
+SoftUart.cpp:89:6:void SoftUart::tx_bit_timer_handler()	16	static
+SoftUart.cpp:103:10:uint8_t SoftUart::uart_receive(uint8_t*)	16	static
+SoftUart.cpp:119:7:void SoftUart::rx_start_event_pin_handler()	16	static
+SoftUart.cpp:140:6:void SoftUart::rx_bit_timer_handler(bool)	24	static
+SoftUart.cpp:201:7:void SoftUart::uart_init(SoftUart::SoftUartSpeed_t, SoftUart::SoftUartParity_t)	16	static
+SoftUart.cpp:244:6:void SoftUart::stop_rx_uart()	16	static
+SoftUart.cpp:254:6:void SoftUart::start_rx_uart()	16	static
+SoftUart.cpp:271:1:SoftUart::SoftUart(bool (*)(), void (*)(), void (*)(uint16_t), void (*)(), void (*)(), void (*)(bool), void (*)(uint16_t), void (*)(), void (*)(), void (*)())	24	static
+SoftUart.cpp:301:9:uint8_t SoftUart::uart_pop_data(uint8_t*, uint16_t&, uint16_t)	24	static
+SoftUart.cpp:312:9:uint8_t SoftUart::uart_get_RX_state()	16	static
+SoftUart.cpp:320:9:uint8_t SoftUart::uart_get_TX_state()	16	static

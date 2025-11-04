@@ -1,0 +1,7 @@
+*.d
+*.emSession
+*.o
+*.hex
+*.elf
+*.map
+*.bin
